@@ -1,6 +1,6 @@
 # Coordination
 
-Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'expérience Fork The World. Elle ne prétend pas TOUT restituer en détail. Elle donne surtout à voir les principales étapes \(et difficultés surmontées\) du processus.
+Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'[expérience Fork The World](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#/edit/master/chapter1.md?_k=cvclzp). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés surmontées) du processus.
 
 # \#16 \(04/04/2017\)
 
