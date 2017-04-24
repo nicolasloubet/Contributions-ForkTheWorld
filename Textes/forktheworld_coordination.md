@@ -116,9 +116,9 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux, Nicolas Loubet et O
 
 Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes de l'expérience.
 
-**Participant.e.s**
-
 ![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_assemblee.png?raw=true)
+
+**Participant.e.s**
 
 * POC Fondation : Yoann, Antoine
 * OpenFactory42 : Aurélien
@@ -195,6 +195,8 @@ Le budget global est accessible à tous. Besoin de ventiler en fonction des appo
 
 # #6 (07/06/2016\)
 
+Temps de coordination à Aurec sur Loire pour préparer le workshop Open City Lab.
+
 **Participants**
 
 * Yoann D.
@@ -203,20 +205,18 @@ Le budget global est accessible à tous. Besoin de ventiler en fonction des appo
 * Franck
 * Léo-Pol
 
-Lieu : Aurec sur Loire
-
 **Ordre du jour**
 
 * Matin
-* Organisation du triptyque et de l'exposition
-* Design et déploiement de la com' \(int et ext.\)
-* Café 2.0 &gt; configuration des outils collaboratifs
-* L'exposition
-* TiliosCamp
-* Triptyque
-* TinyTiliosCamp
-* Les OSCEDays
-* OpenCityLabs
+** Organisation du triptyque et de l'exposition
+** Design et déploiement de la com' \(int et ext.\)
+** Café 2.0 &gt; configuration des outils collaboratifs
+** L'exposition
+** TiliosCamp
+** Triptyque
+*** TinyTiliosCamp
+*** Les OSCEDays
+*** OpenCityLabs
 
 * Midi : repas et visite du projet FabChateau \(?!\)
 
