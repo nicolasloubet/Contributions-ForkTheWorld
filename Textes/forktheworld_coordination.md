@@ -115,7 +115,9 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux, Nicolas Loubet et O
 
 * **Yoann** : OpenCityLab se destine à être construit sur le meme principe que l'accompagnement mené par Yoann pour les 'nuits numériques' à Liège (28/09 - 01/10), au musée de la ville wallonne.
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/villes-open-source.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/villes-open-source.png?raw=true" width="80%">
+</p>
 
 * **Nicolas** : vu le thème choisi, aura-t-on le droit de 'forker OpenCityLab' ?
 
@@ -133,7 +135,9 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux, Nicolas Loubet et O
 
 Journées de cowoCamp à Aurec (Maison Jules Verne) pour identifier les axes de l'expérience.
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_assemblee.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_assemblee.png?raw=true" width="80%">
+</p>
 
 **Participant.e.s**
 
@@ -148,7 +152,9 @@ Journées de cowoCamp à Aurec (Maison Jules Verne) pour identifier les axes de 
 
 **Synthèse**
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_WTF.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_WTF.png?raw=true" width="80%">
+</p>
 
 **Documentation**
 
@@ -412,18 +418,24 @@ Comment structurer une vision de l'expo selon différents modes opératoires pou
 2. ~~On a des tiers-lieux qui représentent des "expertises" qu'on présente~~
 3. ~~LBMG en stand et des espaces thématiques avec tout le monde dans chaque thématique.~~
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_1.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_1.png?raw=true" width="80%">
+</p>
 
 **Plan de l'espace** (prévisionnel en cours de refonte, mais ça donne les grandes masses).
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_espace.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_espace.png?raw=true" width="80%">
+</p>
 
 **2 cercles**
 
 * Un premier (interne) qui concerne la thématique
 * Un second (externe) sur la "méthode (i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...)
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_2.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_2.png?raw=true" width="80%">
+</p>
 
 À la recherche d'un bon dosage entre l'exposition ("back-office") et la participation (front office).
 
