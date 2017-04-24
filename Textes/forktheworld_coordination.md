@@ -29,9 +29,7 @@ Lancement de l'appel à contribution. Date max : 7 janvier 2017 \(intégration d
 * Adresse de site web, document ou autre endroit ou le public pourra trouver plus d'infos
 * Adresse mail de contact \(si le porteur de projet le souhaite\)
 
-#### **Formulaire**
-
-Merci de compléter ce formulaire \([https://goo.gl/forms/fhWZ2PlsPRA18cCz1](https://goo.gl/forms/fhWZ2PlsPRA18cCz1%29\) :
+#### **[Formulaire](https://goo.gl/forms/fhWZ2PlsPRA18cCz1)**
 
 * Titre du projet \| Sous titre du projet \| Année de réalisation
 * Description / histoire de l'oeuvre \[1000 signes maximum\]
