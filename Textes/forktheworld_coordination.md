@@ -355,7 +355,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 **Discussion**
 
-* Pour les conventions, Franck Aivaliotis sera en copie. Les choses se sont calées avec Yoann, la SEM et La Cité du design.
+* Pour les conventions, F. Aivaliotis sera en copie. Les choses sont calées avec Yoann, la SEM et La Cité du design.
 * Olivier voit le 3 mai à Paris le collectif de designers qui sera en immersion. Ils seront embarqués sur les workshops qui mèneront jusqu’à la Biennale. Ils seront là pour faire le travail type de designers dans un workshop (concevoir des choses, participer à la réflexion et récupérer de la matière). Et ils auront pour but  de mettre en forme l’exposition. En étant embarqués, ils seront des alliés des acteurs Tiers-Lieux, pour aller vers l’exposition (le message)
 
 ---
