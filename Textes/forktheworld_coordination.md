@@ -131,7 +131,7 @@ Journées de cowoCamp à Aurec (Maison Jules Verne) pour identifier les axes de 
 
 **Synthèse**
 
-![](/assets/cowocamp_WTF.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_WTF.png?raw=true)
 
 **Documentation**
 
@@ -448,7 +448,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 # #1 (05/04/2016)
 
-![](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_firstmeeting.png?raw=true)
 
 **Participants**
 
