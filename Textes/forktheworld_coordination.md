@@ -425,7 +425,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 * Au sein de l'exposition, l'objectif serait de démontrer le capital informationnel commun entre toutes les formes de tiers lieux. A travers des conférences, des échanges et des démonstrations, les participants pourront voir un panel de possibilités de valeurs créées dans les tiers- lieux, et issus de modes de travail, de vie et d'être spécifiques (et passer à l'action).
 * Une personne (tournante) serait chargée de faire le lien. Elle sera traductrice et créatrice de liens et d'interprétation.
 
-![](/assets/forktheworld_expo.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_WTF.png?raw=true)
 
 **Financement**
 
