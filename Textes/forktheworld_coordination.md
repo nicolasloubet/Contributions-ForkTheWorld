@@ -489,7 +489,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 * Valoriser Saint-Etienne.
 * Relancer le débat travail
 
-##### 1- Cette réunion a permis de faire le tour des référentiels de chacun. Petit aperçu
+#### 1- Cette réunion a permis de faire le tour des référentiels de chacun. Petit aperçu
 
 **Cité du design**
 
@@ -533,7 +533,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 * Référence à Patrick Bouchain, Université Foraine, Expo Univ. Venise 2006, reproduction sur sa propre initiative (ils travaillent avec le collectif d'architecte fondé par P.Bouchain).
 
-##### 2- Cette réunion a clarifié ce qui faisait l'intérêt de certains (avant de faire commun)
+#### 2- Cette réunion a clarifié ce qui faisait l'intérêt de certains (avant de faire commun)
 
 * **Nathanaël** : colloque sur les bonnes pratiques pour travailler sur des véhicules concrets de travail locaux ; habitué à aller chercher des financements et à travailler avec des groupes.
 * **Rieul** : fluidifier les collaborations entre pairs (académiques, makers, politiques, artistes).
