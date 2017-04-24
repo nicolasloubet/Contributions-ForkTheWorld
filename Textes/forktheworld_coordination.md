@@ -94,7 +94,7 @@ Les éléments discutés sont dans Trello : [https://trello.com/c/WG3Cagg3/7-mer
 
 # #10 (29/07/2016)
 
-Discussion - par Internet (Messenger) - entre Yoann Duriaux et Nicolas Louber sur le format du workshop 'Open City Lab' (considéré comme étant le 3e opus d'un tryptique DM1TL pour la Biennale de Design\).
+Discussion - par Internet (Messenger) - entre Yoann Duriaux, Nicolas Loubet et Olivier Peyricot sur le workshop 'Open City Lab' (considéré comme étant le 3e opus d'un tryptique DM1TL pour la Biennale de Design\).
 
 * **Yoann** : OpenCityLab se destine à être construit sur le meme principe que l'accompagnement mené par Yoann pour les 'nuits numériques' à Liège \(28/09 - 01/10\), au musée de la ville wallonne.
 
@@ -103,11 +103,14 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux et Nicolas Louber su
 * **Nicolas** : vu le thème choisi, aura-t-on le droit de 'forker OpenCityLab' ?
 
 * **Yoann** : tu veux que budget alloué à OpenCityLab soit 'abandonné' pour faire un DAISEECamp ?
+
 * **Nicolas** : pas besoin de budget pour faire un "DAISEEcamp". Nous parlons du design du commun sur un temps de prototypage \(OpenCityLab\) Le 'format' proposé - cf. le diaporama des Nuits Numériques - est 'transversal' et peut être adapté à une catégorie de problème\(s\) de l'espace urbain, notamment la transition énergétique \(l'univers de pratiques dans lequel les contributeurs de DAISEE peuvent créer de la valeur ssur le plan culturel, pédagogique, civique et technique\) ainsi que mobiliser des partenaires \(métier\). NB : DAISEE appartient à ses contributeurs \(Samira, Louis, Aude, etc.\). Le groupe peut déjà transmettre de nombreuses connaissances au contributeurs d'OpenFactory.
 
 * **Yoann** : je comprends que certains soient "fatigués" du "trop" global et du besoin de se concentrer sur quelque chose de précis dans ce grand ensemble mais OpenCityLab doit poser le vrai et unique enjeu GLOBAL : (système) libre ou fermé ? * Les participants d'OpenCityLab ont carte blanche pour poursuivre leur 'effort de prototypage (notamment sur DAISEE) mais 'on' ne peut pas avoir le seul angle énergie'. Nous participons à l'interprétation d'une dynamique globale.
 
-* A titre personnel, mon objectif et signer un 'pré-protocole' d'accord avec le laboratoire de recherche \(Olivier\) sur le fait que l'on incube "la [poignée de main numérique libre et open source](http://movilab.org/index.php?title=KoDeal)". =&gt; **Oliver** : cette question nous intéresse comme une branche de questionnement partant du programme de recherche "design des instances" \(DDI\) que nous portons au pôle. Aujourd'hui je n'ai pas une ligne de financement en face, mais si l'avancée de nos travaux respectifs \(exposition Tiers-Lieux & Design des instances\) se confirme et se valorise correctement \(j'insiste sur la valorisation qui nous aide beuacoup pour avancer auprès de nos partenaires du programme général DDI - pour info Labex IMU Lyon 2, ENSCI-ENA\) alors on aura une bonne base pour élaborer un programme commun. Je propose que cette réflexion soit portée en mars au moment de la Biennale de Design, lorsque nous inviterons nos partenaires du Labex.
+* **Yoann** : à titre personnel, mon objectif et signer un 'pré-protocole' d'accord avec le laboratoire de recherche \(Olivier\) sur le fait que l'on incube "la [poignée de main numérique libre et open source](http://movilab.org/index.php?title=KoDeal)".
+
+**Oliver** : cette question nous intéresse comme une branche de questionnement partant du programme de recherche "design des instances" \(DDI\) que nous portons au pôle. Aujourd'hui je n'ai pas une ligne de financement en face, mais si l'avancée de nos travaux respectifs \(exposition Tiers-Lieux & Design des instances\) se confirme et se valorise correctement \(j'insiste sur la valorisation qui nous aide beuacoup pour avancer auprès de nos partenaires du programme général DDI - pour info Labex IMU Lyon 2, ENSCI-ENA\) alors on aura une bonne base pour élaborer un programme commun. Je propose que cette réflexion soit portée en mars au moment de la Biennale de Design, lorsque nous inviterons nos partenaires du Labex.
 
 ---
 
