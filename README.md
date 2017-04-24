@@ -5,3 +5,5 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 ![](https://nicolasloubet.gitbooks.io/fork-the-world/assets/forktheworld_catalogue.jpg)
 
 Ce répertoire complète le [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world) de l'exposition. Il rassemble des ressources permettant d'approfondir le corpus.
+
+Sauf avis explicite, les textes et les images de répertoire sont tou.te.s placées sous licence [Creative Commons BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
