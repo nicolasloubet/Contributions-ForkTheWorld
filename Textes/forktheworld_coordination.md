@@ -8,13 +8,13 @@ Cette page est une tentative de récit du processus de co-conception / co-fabric
 
 ---
 
-# \#15 \(03/04/2017\)
+# #15 (03/04/2017)
 
 [Préparation](https://hackpad.com/KZsDrdSSgoi) de la restitution de l'expérience Fork The World à la Biennale de Design.
 
 ---
 
-# \#14 \(13/12/2016\)
+# #14 (13/12/2016)
 
 Lancement de l'appel à contribution. Date max : 7 janvier 2017 \(intégration du 9 au 12\).
 
@@ -46,7 +46,7 @@ Merci de compléter ce formulaire \([https://goo.gl/forms/fhWZ2PlsPRA18cCz1](htt
 
 ---
 
-# \#13 \(21-22/11/2016\)
+# #13 (21-22/11/2016)
 
 Première [rencontre effective du Conseil Collégial](https://hackpad.com/EBQ6ae0jDdQ) \(à la Cité du Design\).
 
@@ -80,7 +80,7 @@ Première [rencontre effective du Conseil Collégial](https://hackpad.com/EBQ6ae
 
 ---
 
-# \#12 \(16/11/2016\)
+# #12 (16/11/2016\)
 
 Point d'avancement et synchronisation entre Juliette et Yoann au local du collectif RDC à Paris.
 
@@ -88,13 +88,13 @@ Les éléments discutés sont dans Trello : [https://trello.com/c/WG3Cagg3/7-mer
 
 ---
 
-# \#11 \(12/11/2016\)
+# #11 (12/11/2016\)
 
 [Rencontre préparatoire au workshop Open City Lab](https://hackpad.com/98hpmej7KYH#:h=12/11/2016) \(co-organisé avec le Tiers-Lieux la MYNE\).
 
 ---
 
-# \#10 \(29/07/2016\)
+# #10 (29/07/2016\)
 
 Discussion - par Internet \(Messenger\) entre Yoann Duriaux et Nicolas Louber sur le format du workshop 'Open City Lab' \(considéré comme étant le 3e opus d'un tryptique DM1TL pour la Biennale de Design\).
 
@@ -115,7 +115,7 @@ Discussion - par Internet \(Messenger\) entre Yoann Duriaux et Nicolas Louber su
 
 ---
 
-# \#9 \(13-14/07/2016\)
+# #9 (13-14/07/2016\)
 
 Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes de l'expérience.
 
@@ -147,7 +147,7 @@ Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes d
 
 ---
 
-# \#8 \(11/07/2016\)
+# #8 (11/07/2016\)
 
 Discussion entre Yoann Duriaux et Nicolas Loubet préparant le CowoCamp à Aurec.
 
@@ -171,11 +171,11 @@ Discussion entre Yoann Duriaux et Nicolas Loubet préparant le CowoCamp à Aurec
 
 ---
 
-# \#7 \(17/06/2016\)
+# #7 (17/06/2016\)
 
 Temps de coordination à Aurec sur Loire entre Yoann Duriaux, Rieul Técher et Aurélien Marty.
 
-R**esponsabilités**
+**Responsabilités**
 
 * Yoann Duriaux \(en lien avec la Cité du Design\) s'occupe de la coordination globale. Il est référent sur Saint-Etienne / Aurec.
 * Rieul Techer \(en lien avec la Métropole de Lyon\) intervient sur le soutien financier. Il est interlocuteur pour le Grand Lyon.
@@ -196,7 +196,7 @@ Le budget global est accessible à tous. Besoin de ventiler en fonction des appo
 
 ---
 
-# \#6 \(07/06/2016\)
+# #6 (07/06/2016\)
 
 **Participants**
 
@@ -269,7 +269,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 ---
 
-# \#5 \(03/06/2016\)
+# #5 (03/06/2016\)
 
 **Participants**
 
@@ -322,7 +322,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 ---
 
-# \#4 \(03/05/2016\)
+# #4 (03/05/2016\)
 
 **Participants**
 
@@ -337,7 +337,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 ---
 
-# \#3 \(28/04/2016\)
+# #3 (28/04/2016\)
 
 **Participants**
 
@@ -373,7 +373,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 ---
 
-# \#2 \(07/04/2016\)
+# #2 (07/04/2016\)
 
 **Présents**
 
@@ -446,7 +446,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 ---
 
-# \#1 \(05/04/2016\)
+# #1 (05/04/2016\)
 
 ![](/assets/forktheworld_firstmeeting.jpg)
 
