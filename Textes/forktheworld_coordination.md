@@ -465,7 +465,9 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 # #1 (05/04/2016)
 
-![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_firstmeeting.png?raw=true)
+<p align="center">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_firstmeeting.png?raw=true" width="80%">
+</p>
 
 **Participant.e.s**
 
