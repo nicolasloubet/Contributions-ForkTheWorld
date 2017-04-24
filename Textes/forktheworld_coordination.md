@@ -1,6 +1,6 @@
 # Coordination
 
-Cette page est une tentative de récit du processus de co-conception / co-fabrication de l'[expérience Fork The World](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#/edit/master/chapter1.md?_k=cvclzp). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés surmontées) du processus.
+Cette page est une tentative de récit du processus de co-commissariat de l'[expérience Fork The World](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#/edit/master/chapter1.md?_k=cvclzp). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés surmontées) du processus ([source originale](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)).
 
 # #16 (04/04/2017)
 
@@ -244,7 +244,7 @@ Temps de coordination à Aurec sur Loire pour préparer le workshop Open City La
 _Interroger sur la manière de montrer et non pas de faire les choses._
 
 * **Budget**
-  * Axe production / workshop = 45 000 € SEM + 5 000 € Cité)
+  * Axe production / workshop = 45 000 € SEM + 5 000 € Cité
   * Enjeux : financement à court terme du workshop (OSCEDays)
   * Convention en cours de mise en oeuvre pour l'organisation
 
@@ -397,7 +397,7 @@ Comment structurer une vision de l'expo selon différents modes opératoires pou
 
 ![](/assets/forktheworld_organisations_1.jpg)
 
-**Plan de l'espace **(prévisionnel en cours de refonte, mais ça donne les grandes masses).
+**Plan de l'espace** (prévisionnel en cours de refonte, mais ça donne les grandes masses).
 
 ![](/assets/forktheworld_espace.jpg)
 
