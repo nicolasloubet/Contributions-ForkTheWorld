@@ -455,7 +455,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 * Une personne (tournante) serait chargée de faire le lien. Elle sera traductrice et créatrice de liens et d'interprétation.
 
 <p align="center">
-<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_WTF.png?raw=true" width="80%">
+<img src="https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_expo.png?raw=true" width="80%">
 </p>
 
 **Financement**
