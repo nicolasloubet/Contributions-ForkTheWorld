@@ -395,18 +395,18 @@ Comment structurer une vision de l'expo selon différents modes opératoires pou
 2. ~~On a des tiers-lieux qui représentent des "expertises" qu'on présente~~
 3. ~~LBMG en stand et des espaces thématiques avec tout le monde dans chaque thématique.~~
 
-![](/assets/forktheworld_organisations_1.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_1.png?raw=true)
 
 **Plan de l'espace** (prévisionnel en cours de refonte, mais ça donne les grandes masses).
 
-![](/assets/forktheworld_espace.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_espace.png?raw=true)
 
 **2 cercles**
 
 * Un premier (interne) qui concerne la thématique
 * Un second (externe) sur la "méthode (i.g.: sur la thématique de l'énergie comment on travaille &gt; blockchain, inclusion, Casa Jasmina, Valldaura...)
 
-![](/assets/forktheworld_organisations_2.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_organisations_2.png?raw=true)
 
 À la recherche d'un bon dosage entre l'exposition ("back-office") et la participation (front office).
 
@@ -448,7 +448,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 # #1 (05/04/2016)
 
-![](/assets/forktheworld_firstmeeting.jpg)
+![](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)
 
 **Participants**
 
