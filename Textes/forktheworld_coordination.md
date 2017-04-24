@@ -217,7 +217,7 @@ Temps de coordination à Aurec sur Loire pour préparer le workshop Open City La
 **Participants**
 
 * Yoann D.
-* RIeul T.
+* Rieul T.
 * David R.
 * Franck
 * Léo-Pol
@@ -378,7 +378,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 **Workshops**
 
 * TTCamp en avril &gt; fait en bootstrap / à valoriser très largement dans l'écosytème (large).
-* OSCEDays en juin &gt; organisation lancée / fil rouge énergétique pour la M[Y]NE / Cellabz.
+* OSCEDays en juin &gt; organisation lancée / fil rouge énergétique pour la MYNE / Cellabz.
 * OpenCityLab en oct. &gt; orga à lancer en juin, après les OSCEDays (couplage avec fabmob)
 
 **Co-budget**
@@ -392,7 +392,7 @@ _Interroger sur la manière de montrer et non pas de faire les choses._
 
 # #2 (07/04/2016)
 
-**Présents**
+**Présent.e.s**
 
 * Olivier (Cité du Design)
 * Yoann (POC fondation)
@@ -467,7 +467,7 @@ L'entrée thématique" est retenue comme la plus favorable = &gt; Besoin de déf
 
 ![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/forktheworld_firstmeeting.png?raw=true)
 
-**Participants**
+**Participant.e.s**
 
 * Olivier (Cité Design)
 * Floriane (Cité Design)
