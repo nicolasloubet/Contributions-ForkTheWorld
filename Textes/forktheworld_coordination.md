@@ -106,9 +106,7 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux, Nicolas Loubet et O
 
 * **Nicolas** : pas besoin de budget pour faire un "DAISEEcamp". Nous parlons du design du commun sur un temps de prototypage \(OpenCityLab\) Le 'format' proposé - cf. le diaporama des Nuits Numériques - est 'transversal' et peut être adapté à une catégorie de problème\(s\) de l'espace urbain, notamment la transition énergétique \(l'univers de pratiques dans lequel les contributeurs de DAISEE peuvent créer de la valeur ssur le plan culturel, pédagogique, civique et technique\) ainsi que mobiliser des partenaires \(métier\). NB : DAISEE appartient à ses contributeurs \(Samira, Louis, Aude, etc.\). Le groupe peut déjà transmettre de nombreuses connaissances au contributeurs d'OpenFactory.
 
-* **Yoann** : je comprends que certains soient "fatigués" du "trop" global et du besoin de se concentrer sur quelque chose de précis dans ce grand ensemble mais OpenCityLab doit poser le vrai et unique enjeu GLOBAL : (système) libre ou fermé ? * Les participants d'OpenCityLab ont carte blanche pour poursuivre leur 'effort de prototypage (notamment sur DAISEE) mais 'on' ne peut pas avoir le seul angle énergie'. Nous participons à l'interprétation d'une dynamique globale.
-
-* **Yoann** : à titre personnel, mon objectif et signer un 'pré-protocole' d'accord avec le laboratoire de recherche \(Olivier\) sur le fait que l'on incube "la [poignée de main numérique libre et open source](http://movilab.org/index.php?title=KoDeal)".
+* **Yoann** : je comprends que certains soient "fatigués" du "trop" global et du besoin de se concentrer sur quelque chose de précis dans cet ensemble mais OpenCityLab doit poser le vrai et unique enjeu GLOBAL : (système) libre ou fermé ? Les participants ont carte blanche pour poursuivre leur effort de prototypage (notamment sur DAISEE) mais 'on' ne peut pas avoir le seul angle énergie. Nous participons à l'interprétation d'une dynamique globale. NB : à titre personnel, mon objectif et signer un 'pré-protocole' d'accord avec le laboratoire de recherche (Olivier) sur le fait que l'on incube "la [poignée de main numérique libre et open source](http://movilab.org/index.php?title=KoDeal)".
 
 * **Oliver** : cette question nous intéresse comme une branche de questionnement partant du programme de recherche "design des instances" (DDI) que nous portons au pôle [de recherche de la Cité du Design]. Aujourd'hui je n'ai pas une ligne de financement en face, mais si l'avancée de nos travaux respectifs (exposition Tiers-Lieux & Design des instances) se confirme et se valorise correctement (j'insiste sur la valorisation qui nous aide beaucoup pour avancer auprès de nos partenaires du programme général DDI - pour info Labex IMU Lyon 2, ENSCI-ENA) alors on aura une bonne base pour élaborer un programme commun. Je propose que cette réflexion soit portée en mars au moment de la Biennale de Design, lorsque nous inviterons nos partenaires du Labex.
 
@@ -120,7 +118,7 @@ Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes d
 
 **Participant.e.s**
 
-![](/assets/cowocamp_assemblee.jpg)
+![](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Images/cowocamp_assemblee.png?raw=true)
 
 * POC Fondation : Yoann, Antoine
 * OpenFactory42 : Aurélien
