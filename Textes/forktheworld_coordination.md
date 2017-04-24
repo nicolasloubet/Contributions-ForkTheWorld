@@ -92,13 +92,13 @@ Les éléments discutés sont dans Trello : [https://trello.com/c/WG3Cagg3/7-mer
 
 ---
 
-# #10 (29/07/2016\)
+# #10 (29/07/2016)
 
-Discussion - par Internet \(Messenger\) entre Yoann Duriaux et Nicolas Louber sur le format du workshop 'Open City Lab' \(considéré comme étant le 3e opus d'un tryptique DM1TL pour la Biennale de Design\).
+Discussion - par Internet (Messenger) - entre Yoann Duriaux et Nicolas Louber sur le format du workshop 'Open City Lab' (considéré comme étant le 3e opus d'un tryptique DM1TL pour la Biennale de Design\).
 
 * **Yoann** : OpenCityLab se destine à être construit sur le meme principe que l'accompagnement mené par Yoann pour les 'nuits numériques' à Liège \(28/09 - 01/10\), au musée de la ville wallonne.
 
-![](/assets/villes_open_source.png)
+![](https://www.gitbook.com/2b9dfdd5-85ea-404b-932e-4c8f64917244)
 
 * **Nicolas** : vu le thème choisi, aura-t-on le droit de 'forker OpenCityLab' ?
 
