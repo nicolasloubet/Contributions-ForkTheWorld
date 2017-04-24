@@ -98,7 +98,7 @@ Discussion - par Internet (Messenger) - entre Yoann Duriaux et Nicolas Louber su
 
 * **Yoann** : OpenCityLab se destine à être construit sur le meme principe que l'accompagnement mené par Yoann pour les 'nuits numériques' à Liège \(28/09 - 01/10\), au musée de la ville wallonne.
 
-![](https://www.gitbook.com/2b9dfdd5-85ea-404b-932e-4c8f64917244)
+![](blob:https://www.gitbook.com/2b9dfdd5-85ea-404b-932e-4c8f64917244)
 
 * **Nicolas** : vu le thème choisi, aura-t-on le droit de 'forker OpenCityLab' ?
 
@@ -127,8 +127,8 @@ Journées de cowoCamp à Aurec \(Maison Jules Verne\) pour identifier les axes d
 * Cité du Design : Olivier, Jennifer, Floriane
 * La M\[Y\]NE : Rieul, Cha, David, Julie, Baboo, Johan
 * Collectif RDC : Juliette, Raphaël, Marion
-* Simon \(Tour des TRUCS\) & Nicolas \(Cellabz\)
-* De passage : Simon \(Unisson\), LUL, ... à compléter
+* Simon (Tour des TRUCS) & Nicolas (Cellabz)
+* De passage : Simon (Unisson), LUL, ... à compléter
 
 **Synthèse**
 
