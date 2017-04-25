@@ -1,6 +1,6 @@
 # Coordination du co-commissariat
 
-Cette page est une tentative de récit du processus de co-commissariat de l'[expérience Fork The World](https://www.gitbook.com/book/nicolasloubet/fork-the-world/edit#/edit/master/chapter1.md?_k=cvclzp). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés) du processus. [[Source originale](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)]
+Cette page est une tentative de récit du processus de co-commissariat de l'[expérience Fork The World](https://nicolasloubet.gitbooks.io/fork-the-world/content). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés) du processus. [[Source originale](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)]
 
 * [#16 (04/04/2017)](#16-04042017)
 * [#15 (03/04/2017)](#15-03042017)
