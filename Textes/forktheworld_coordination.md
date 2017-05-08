@@ -34,7 +34,7 @@ Cette page est une tentative de récit du processus de co-commissariat de l'[exp
 
 # #15 (03/04/2017)
 
-[Préparation](https://hackpad.com/KZsDrdSSgoi) de la restitution de l'expérience Fork The World à la Biennale de Design.
+[Préparation de la restitution de l'expérience Fork The World à la Biennale de Design](https://hackpad.com/KZsDrdSSgoi).
 
 ---
 
