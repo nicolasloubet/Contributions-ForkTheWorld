@@ -22,11 +22,13 @@ Cette page est une tentative de récit du processus de co-commissariat de l'[exp
 
 # #17 (03/05/2017)
 
-[Débriefing de l'expérience "Fork The World" avec la communauté OpenFactory](https://hackmd.io/s/HJDOxMvkW)
+[Débriefing de l'expérience "Fork The World" avec la communauté OpenFactory](https://hackmd.io/s/HJDOxMvkW).
+
+---
 
 # #16 (04/04/2017)
 
-[Discussion autour du "design de consensus"](https://frama.link/designconsensus) sur proposition de de Xavier Coadic.
+[Discussion autour du "design de consensus" sur proposition de de Xavier Coadic](https://frama.link/designconsensus).
 
 ---
 
