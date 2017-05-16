@@ -2,6 +2,7 @@
 
 Cette page est une tentative de récit du processus de co-commissariat de l'[expérience Fork The World](https://nicolasloubet.gitbooks.io/fork-the-world/content). Elle ne prétend pas TOUT restituer. Elle donne surtout à voir les principales étapes (et difficultés) du processus. [[Source originale](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-lExprience-Tiers-lieux-ForkTheWorld-HsVVbQIR9Cz#:h=7--Temps-de-coordination)]
 
+* [#18 (16/05/2017)](#16-16052017)
 * [#17 (03/05/2017)](#17-03052017)
 * [#16 (04/04/2017)](#16-04042017)
 * [#15 (03/04/2017)](#15-03042017)
@@ -19,6 +20,10 @@ Cette page est une tentative de récit du processus de co-commissariat de l'[exp
 * [#3 (28/04/2016)](#3-28042016)
 * [#2 (07/04/2016)](#2-07042016)
 * [#1 (05/04/2016)](#1-05042016)
+
+# #18 (16/05/2017)
+
+[Débriefing de l'expérience "Fork The World" avec la communauté de LA MYNE](https://hackmd.io/s/HkioijOl-).
 
 # #17 (03/05/2017)
 
