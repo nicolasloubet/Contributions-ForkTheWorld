@@ -5,7 +5,15 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 ![](https://nicolasloubet.gitbooks.io/fork-the-world/assets/forktheworld_catalogue.jpg)
 
 En tant que (modeste) contributeur, je me suis investi pendant un an dans la mise en récit de l'effort de contribution = 
-* Via l'édition réguli!re du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce repertoire)
+* Via l'édition réguli!re du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
 * Via l'édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
+* Via la rédaction de compte-rendus de conférences (témoignages) avec Twitter et Storify
+  * https://storify.com/nicolasloubet/biennaledesign17-forest-dao
+  * https://storify.com/nicolasloubet/biennaledesign17-collectifbam-dant
+  * https://storify.com/nicolasloubet/biennaledesign17-em-laurent-energie
+  * https://storify.com/nicolasloubet/biennaledesign17-mesh-friches
+  * https://storify.com/nicolasloubet/biennaledesign17-primavera-de-filippi
+  * https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie
+  * https://storify.com/nicolasloubet/biennaledesign17-forktheworld
 
 Sauf mention contraire, les textes et images de ce répertoire sont régi.e.s par la licence [CC-BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
