@@ -27,10 +27,11 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
  
 ### Présence et animation
  
-* Participation (2 jours) au workshop [TinyTiliosCamp](http://movilab.org/index.php?title=Code_source_TinyTiliosCamp_-_du_4_au_11_avril_2016) (Saint-Etienne) & publication d'un [compte-rendu](https://storify.com/nicolasloubet/tinytilioscamp)
+* Participation (2 jours) au workshop [TinyTiliosCamp](http://movilab.org/index.php?title=Code_source_TinyTiliosCamp_-_du_4_au_11_avril_2016) & publication d'un [compte-rendu](https://storify.com/nicolasloubet/tinytilioscamp)
 * Participation au [CowoCamp d'Aurec](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md#9-13-14072016) pour l'exposition & soutien actif à la documentation. 
 * Participation (6 jours) au workshop [Open City Lab](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-DoZE-Parc-propos-par-La-MYNE-98hpmej7KYH#:h=3--Open-City-Lab-(23-27/01)) & soutien à la documentation ([pour DAISEE](https://hackpad.com/DAISEE-Carnet-de-bord-pour-les-activits-de-la-BiennaleDesign17-ahuXu8dfACa#:h=Lisez-Moi))
 * Co-organisation du [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & du [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
 
+## Licences 
 
 Sauf mention contraire, les textes et images de ce répertoire sont régi.e.s par la licence [CC-BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
