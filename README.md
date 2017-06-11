@@ -8,7 +8,7 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 
 ## Ma contribution
 
-En tant que (modeste) contributeur, je me suis investi pendant un an de plusieurs façon dans le processus. En bref, via :   
+En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon dans le processus. En bref, via :   
 * L'édition régulière du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
 * L'édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
 * La rédaction de compte-rendus de conférences-témoignages (avec Twitter et Storify)
