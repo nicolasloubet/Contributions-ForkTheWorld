@@ -19,5 +19,6 @@ En tant que (modeste) contributeur, je me suis investi pendant un an dans la mis
   * [L'art pour expérimenter de nouvelles formes de gouvernance](https://storify.com/nicolasloubet/biennaledesign17-primavera-de-filippi)
   * [Forum des Transition(s) et gouvernance(s) énergétique(s)](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie)
   * [Vers une expérience 'Saint-Etienne en Biens Communs' ?](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
+ * La mise en forme primitive du repertoire de la World Trust Foundation (dont le but est l'essaimage de Fork The Workd)
 
 Sauf mention contraire, les textes et images de ce répertoire sont régi.e.s par la licence [CC-BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
