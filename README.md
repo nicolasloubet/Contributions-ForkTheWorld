@@ -19,7 +19,8 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
   * [L'art pour expérimenter de nouvelles formes de gouvernance](https://storify.com/nicolasloubet/biennaledesign17-primavera-de-filippi)
   * [Forum des Transition(s) et gouvernance(s) énergétique(s)](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie)
   * [Vers une expérience 'Saint-Etienne en Biens Communs' ?](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
- * La contribution au corpus édiorial (cf. [valeur](https://github.com/Shalf/biennaledesign17/blob/master/Valeur.md)). À prolonger pour les [ROUMICS](http://www.roumics.com/les-roumics/vivre-des-communs) (Nov. 2017, Lille)
+ * La contribution au corpus édiorial (cf. [valeur](https://github.com/Shalf/biennaledesign17/blob/master/Valeur.md)). À prolonger pour les [ROUMICS](http://www.roumics.com/les-roumics/vivre-des-communs) (2017, Lille)
  * La mise en forme - primitive (v0.1) - du [repertoire GitHub](https://github.com/WorldTrustFoundation) de la 'World Trust Foundation' 
+ * La co-organisation de deux rassemblement : le [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & le [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
 
 Sauf mention contraire, les textes et images de ce répertoire sont régi.e.s par la licence [CC-BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
