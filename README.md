@@ -27,8 +27,9 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
  
 ### Présence et animation
  
-* Participation de deux jours au workshop [TinyTiliosCamp](http://movilab.org/index.php?title=Code_source_TinyTiliosCamp_-_du_4_au_11_avril_2016) (Saint-Etienne) & publication d'un [compte-rendu](https://storify.com/nicolasloubet/tinytilioscamp)
-* Particiaption au [CowoCamp à Aurec](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md#9-13-14072016) dédié à la préparation de l'exposition & soutien à la documentation
+* Participation au workshop [TinyTiliosCamp](http://movilab.org/index.php?title=Code_source_TinyTiliosCamp_-_du_4_au_11_avril_2016) (Saint-Etienne) & publication d'un [compte-rendu](https://storify.com/nicolasloubet/tinytilioscamp)
+
+* Partiicpation au [CowoCamp d'Aurec](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md#9-13-14072016) pour l'exposition & soutien à la documentation. 
 
 * Co-organisation du [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & du [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
 
