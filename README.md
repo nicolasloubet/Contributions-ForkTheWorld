@@ -8,9 +8,9 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 
 ## Ma contribution
 
-En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon dans le processus. En bref, via :   
-* L'édition régulière du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
-* L'édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
+En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon dans le processus.
+* Édition régulière du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
+* Édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
 * La rédaction de compte-rendus de conférences-témoignages (avec Twitter et Storify)
   * [Forest as a DAO : De l'art et du code pour faire symbiose](https://storify.com/nicolasloubet/biennaledesign17-forest-dao)
   * [BAM & DANT : deux petites histoires de collectifs](https://storify.com/nicolasloubet/biennaledesign17-collectifbam-dant)
@@ -19,8 +19,8 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
   * [L'art pour expérimenter de nouvelles formes de gouvernance](https://storify.com/nicolasloubet/biennaledesign17-primavera-de-filippi)
   * [Forum des Transition(s) et gouvernance(s) énergétique(s)](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie)
   * [Vers une expérience 'Saint-Etienne en Biens Communs' ?](https://storify.com/nicolasloubet/biennaledesign17-forktheworld)
- * La contribution au corpus édiorial (cf. [valeur](https://github.com/Shalf/biennaledesign17/blob/master/Valeur.md)). À prolonger pour les [ROUMICS](http://www.roumics.com/les-roumics/vivre-des-communs) (2017, Lille)
- * La mise en forme - primitive (v0.1) - du [repertoire GitHub](https://github.com/WorldTrustFoundation) de la 'World Trust Foundation' 
- * La co-organisation de deux rassemblement : le [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & le [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
+ * Contribution au corpus édiorial (cf. [valeur](https://github.com/Shalf/biennaledesign17/blob/master/Valeur.md)). À prolonger pour les [ROUMICS](http://www.roumics.com/les-roumics/vivre-des-communs) (2017, Lille)
+ * Mise en forme - primitive (v0.1) - du [repertoire GitHub](https://github.com/WorldTrustFoundation) de la 'World Trust Foundation' 
+ * Co-organisation de 2 rassemblements : [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
 
 Sauf mention contraire, les textes et images de ce répertoire sont régi.e.s par la licence [CC-BY-SA 2.0 France](https://creativecommons.org/licenses/by-sa/2.0/fr/)
