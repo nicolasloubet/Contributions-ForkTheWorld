@@ -4,10 +4,10 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 
 ![](https://nicolasloubet.gitbooks.io/fork-the-world/assets/forktheworld_catalogue.jpg)
 
-En tant que (modeste) contributeur, je me suis investi pendant un an dans la mise en récit de l'effort de contribution = 
-* Via l'édition réguli!re du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
-* Via l'édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
-* Via la rédaction de compte-rendus de conférences (témoignages) avec Twitter et Storify
+En tant que (modeste) contributeur, je me suis investi pendant un an dans la mise en récit de l'effort de contribution via :  
+* L''édition régulière du [carnet de bord](http://frama.link/BiennaleDesign17-ForkTheWorld) (consultable en [version Markdown](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md) dans ce dépôt)
+* L'édition des [textes de l'exposition](https://frama.link/BiennaleDesign17-ForkTheWorld-Expo) (mis en forme - totalement provisoire - via [GitBook](https://www.gitbook.com/book/nicolasloubet/fork-the-world))
+* La rédaction de compte-rendus de conférences (témoignages) avec Twitter et Storify
   * [Forest as a DAO : De l'art et du code pour faire symbiose](https://storify.com/nicolasloubet/biennaledesign17-forest-dao)
   * [BAM & DANT : deux petites histoires de collectifs](https://storify.com/nicolasloubet/biennaledesign17-collectifbam-dant)
   * [Emmanuel Laurent : Rendre l'énergie visible et ludique](https://storify.com/nicolasloubet/biennaledesign17-em-laurent-energie)
