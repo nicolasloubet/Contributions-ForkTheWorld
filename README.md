@@ -31,7 +31,7 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
 * Participation (2 jours) au [CowoCamp](https://github.com/nicolasloubet/ForkTheWorld/blob/master/Textes/forktheworld_coordination.md#9-13-14072016) pour l'exposition & soutien à la documentation. 
 * Participation (6 jours) au workshop [Open City Lab](https://hackpad.com/BiennaleDesign17-Carnet-de-bord-de-DoZE-Parc-propos-par-La-MYNE-98hpmej7KYH#:h=3--Open-City-Lab-(23-27/01)) & soutien à la documentation ([DAISEE](https://hackpad.com/DAISEE-Carnet-de-bord-pour-les-activits-de-la-BiennaleDesign17-ahuXu8dfACa#:h=Lisez-Moi))
 * Co-organisation du [forum des transitions énergétiques](https://storify.com/nicolasloubet/biennaledesign17-transition-gouvernance-energie) & du [bootcamp 'Energy By Makers'](https://www.meetup.com/fr-FR/Meetup-Energy-by-Makers-Lyon-Sud-Est/events/238059847/)
-* Présence aux moments de débriefing de l'expérience ([OpenFactory à Saint-Etienne](https://hackmd.io/CwRgHCwEwMYGwFoCmB2KAGBwCsckIE5JE8ZgAjAQxCUvRgBMg===), [La MYNE à Lyon](https://hackmd.io/MwhmE4CZQEwWgKyQIwAY4BYHHgQ2cLnKAEbhmQCmulMGoQA=))
+* Présence aux moments de débriefing de l'expérience (avec [OpenFactory](https://hackmd.io/CwRgHCwEwMYGwFoCmB2KAGBwCsckIE5JE8ZgAjAQxCUvRgBMg===), avec [La MYNE](https://hackmd.io/MwhmE4CZQEwWgKyQIwAY4BYHHgQ2cLnKAEbhmQCmulMGoQA=))
 
 ## Licences juridiques
 
