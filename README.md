@@ -35,7 +35,7 @@ En tant que contributeur, je me suis investi pendant 1 an de plusieurs façon da
 * Présence sur des événements pour témoigner et encoure l'essaimage de l'exposition Fork The World
   * [FabLab Festival](http://www.fablabfestival.fr) (Toulouse, Mai 2017)
   * [Journée Hotel Pasteur](https://github.com/nicolasloubet/Compte-rendus/blob/master/Articles/pasteur19mai.md) (Rennes, Mai 2017)
-  * [Ramdam Tiers-Lieux](http://grandramdam.net/- (Poitiers, Juin 2017)
+  * [Ramdam Tiers-Lieux](http://grandramdam.net) (Poitiers, Juin 2017)
   * [Forum Camping aux GV](https://drive.google.com/file/d/0BwTBzng3rgljX1ZLR1dYNWJROW8/view) (Paris, Juin 2017)
 
 ## Licences juridiques
